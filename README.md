@@ -1,4 +1,5 @@
 NLP-Based Review Classifier
+
 This project is a machine learning application designed to automatically classify movie reviews as either positive or negative. It leverages Natural Language Processing (NLP) techniques to analyze text data and predict sentiment. The system is built using Python, scikit-learn for the core machine learning model, and Flask to provide a prediction API.
 
 Features
